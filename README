@@ -1,0 +1,4 @@
+# LZ4
+
+simple LZ4 binding for go
+(compress, decompress only)
